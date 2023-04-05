@@ -1,0 +1,11 @@
+* {
+  /* border: 1px dotted black;  */
+}
+
+.form-control {
+  margin-bottom: 1em;
+}
+
+.form-control::placeholder {
+  color: rgb(171, 171, 171);
+}
